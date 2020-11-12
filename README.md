@@ -4,11 +4,11 @@ I created a website using HTML, CSS and utilzing my knowledge of Node.js, Expres
 
 ### Screenshots
 
-![About_Me](public\img\newIndex.PNG)
+![About_Me](public/img/newIndex.PNG)
 
-![Contact](public\img\newContact.PNG)
+![Contact](public/img/newContact.PNG)
 
-![Portfolio](public\img\newportfollio.PNG)
+![Portfolio](public/img/newportfollio.PNG)
 
 ## Built With
 
